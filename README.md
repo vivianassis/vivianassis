@@ -27,6 +27,7 @@ Here are some ideas to get you started:
    <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
   
+   <div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
    
