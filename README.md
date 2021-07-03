@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Oiii! Bem vindos, sou a Vivi! 
- <div> <img align="right" height="150em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> </div>
+ <div> <img align="right" height="140em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> </div>
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
-   <div> <img align="right" height="250em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
+   <div> <img align="right" height="270em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
     <br>
     
