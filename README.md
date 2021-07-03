@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
  
    
-  <div> <img align="right" height="130em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> 
+  <div> <img align="right" height="115em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> 
 </div>
    
  ## Canais de Comunicação
