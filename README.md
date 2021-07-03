@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ## Oiii! Bem vindos, sou a Vivi! 
 
 
-  <br> <div> <img align="right" height="300em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
+  <br> <br> 
+  <div> <img align="right" height="300em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
-<br>
+
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
