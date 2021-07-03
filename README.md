@@ -22,19 +22,15 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <br><br>
    
-    <div>
+    <div style="display: inline_block">
    <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
   
    <div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-   
-   <div>
-  <br><br>
-   <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
-   </div>
   
    ## Desenvolvimento de aprendizagem atual
  <div style="display: inline_block"><br>
