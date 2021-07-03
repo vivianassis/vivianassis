@@ -36,8 +36,8 @@ Here are some ideas to get you started:
  </div>
   <br>
  <div>
-  <br>
-   <img align="right" height="70em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+  <br><br><br>
+   <img align="right" height="60em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
    
  
