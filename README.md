@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Oiii! Bem vindos, sou a Vivi! 
- <div> <img align="right" height="180em" opacity="0.5" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> </div>
+ <div> <img align="right" height="180em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> </div>
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <div>
-    <img align="right" height="90em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+    <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
