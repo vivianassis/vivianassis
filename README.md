@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Oiii! Bem vindos, sou a Vivi! 
 
-   <div> <img align="right" height="270em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
+   <div> <img align="right" height="290em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
 
  <div>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
   
    <div style="display: inline_block">
-   <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
+   <img align="right" height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
    </div>
    
    ## Desenvolvimento de aprendizagem atual
