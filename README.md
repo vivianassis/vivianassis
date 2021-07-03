@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Bem vindos" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Bem vindos" src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F173735214_2993896154265289_8066734193357223596_n.jpg%3Fccb%3D11-4%26oh%3D2b6d57f80ee9e2a2124d69606812fe10%26oe%3D60E580ED&t=l&u=558196558399%40c.us&i=1623596890&n=2JYfzB6lOPKjALJLNzBWq5aG3vSC5b13pdBdGgQW7Sw%3D">
 </div>
   
   ##
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
   <a href = "mailto:vivianassis11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viviana-assis-573874212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/vivianassis/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vivianassis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
