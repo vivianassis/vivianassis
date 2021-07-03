@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Oiii! Bem vindos, sou a Vivi! 
+# Oi! Bem vindos ao meu repositório :hugs: 
   <br>
   <div> <img align="right" height="335em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
