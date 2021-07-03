@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
   
    <div style="display: inline_block">
-   <img align="right" height="60em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
+   <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
 </div>
    
    ## Aprendizagem atual em
