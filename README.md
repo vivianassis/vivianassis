@@ -27,8 +27,9 @@ Here are some ideas to get you started:
  </div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  ## Canais de comunicação
+  
  
+ ## Canais de Comunicação
 <div> 
   <a href="https://www.youtube.com/channel/UC-U5xQGEP6vFC50ed9IJiFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:vivianassis11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
