@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Oiii! Bem vindos, sou a Vivi! 
- <div> <img align="right" height="180em" alt="gif emoji pensando" src="https://media1.tenor.com/images/571e1bf1a8415178c7c9995c6a4d8554/tenor.gif?itemid=10921508"> </div>
+ <div> <img align="right" height="230em" opacity="0.5" alt="gif emoji pensando" src="https://media1.tenor.com/images/571e1bf1a8415178c7c9995c6a4d8554/tenor.gif?itemid=10921508"> </div>
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
