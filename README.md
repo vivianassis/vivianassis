@@ -26,6 +26,11 @@ Here are some ideas to get you started:
     
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+   
+   <div>
+  <br><br>
+   <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+   </div>
   
    ## Desenvolvimento de aprendizagem atual
  <div style="display: inline_block"><br>
@@ -35,10 +40,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  </div>
 
- <div>
-  <br><br>
-   <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
-   </div>
+ 
    
  
  ## Canais de Comunicação
