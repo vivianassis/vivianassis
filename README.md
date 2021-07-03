@@ -22,7 +22,6 @@ Here are some ideas to get you started:
    
    <div> <img align="right" height="270em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
-    <br>
     
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
@@ -34,10 +33,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  </div>
-  <br>
+
  <div>
   <br><br>
-   <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+   <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
    
  
