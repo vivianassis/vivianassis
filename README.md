@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     </div>
      <br><br>
    
     <div style="display: inline_block">
