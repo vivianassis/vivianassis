@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
 </div>
    
-   ## Aprendizagem atual em
+   ## Atualmente estudando
     
   <div style="display: inline_block"><br>
   <img align="center" alt="Vivi-Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
