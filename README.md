@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <div style="display: inline" align="right">
-    #### Sem obstáculos, sem aprendizado... <br>
+    ## Sem obstáculos, sem aprendizado...
     ###### Claudemir Rodrigues Araújo
    </div>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
