@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+ 
+  <div> <img align="right" height="180em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg"> </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="Vivi-Js" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +30,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
   
-  <div> <img align="right" height="180em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg"> </div>
  
  ## Canais de Comunicação
 <div> 
