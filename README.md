@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <br> <br>
    <div>
     <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
