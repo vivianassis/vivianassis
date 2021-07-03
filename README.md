@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-  <div> <img align="right" height="200em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg"> </div>
+  <div> <img align="right" height="300em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg"> </div>
    <div style="display: inline_block"><br>
   <img align="center" alt="Vivi-Js" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vivi-HTML" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
