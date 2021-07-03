@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  </div>
   
  <div>
-   <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+   <img align="right" height="30em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
    
  
