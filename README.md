@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Oiii! Bem vindos, sou a Vivi! 
   <br>
-  <div> <img align="right" height="3350em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
+  <div> <img align="right" height="335em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
 
  <div>
