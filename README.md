@@ -30,10 +30,10 @@ Here are some ideas to get you started:
  
    <div> <img align="right" height="300em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg"> </div>
    <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-Js" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vivi-HTML" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vivi-CSS" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vivi-Python" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vivi-Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  </div>
   
  
