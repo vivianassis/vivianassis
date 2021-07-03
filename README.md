@@ -25,6 +25,7 @@ Here are some ideas to get you started:
      </div>
      <br><br>
   
+   <div style="display: inline_block"><br>
    <img align="right" height="45em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
    </div>
   
