@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  </div>
-  
+  <br>
  <div>
-   <img align="right" height="30em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
+   <img align="right" height="50em" alt="frase" src="https://i.imgur.com/IzhovPE.png"> </div>
    </div>
    
  
