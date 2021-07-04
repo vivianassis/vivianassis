@@ -53,4 +53,3 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UC-U5xQGEP6vFC50ed9IJiFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
-![Snake animation](https://github.com/vivianassis/vivianassis/blob/output/github-contribution-grid-snake.svg)
