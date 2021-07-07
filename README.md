@@ -26,8 +26,8 @@ Here are some ideas to get you started:
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-   <div style="display: inline_block">
-   <img align="right" margin-rigth="2em" "height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
+   <div>
+   <img align="right" "height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
 </div>
    
    ## Atualmente estudando
