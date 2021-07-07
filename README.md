@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
   
    <div style="display: inline_block">
-   <img align="right" height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
+   <img align="right" margin-rigth="2em" "height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
 </div>
    
    ## Atualmente estudando
