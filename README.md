@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
  <div style="display: flex">
   <a href="https://github.com/vivianassis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
     </div>
   
   <div>
-    <img display="flex" align="right" alt="Vivi-gif" height="400em" src="https://i.imgur.com/uWAguQ5.gif">
+    <img display="flex" align="right" alt="Vivi-gif" height="380em" src="https://i.imgur.com/uWAguQ5.gif">
   </div>    
    
   ## Uso
