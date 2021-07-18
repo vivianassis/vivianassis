@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     </div>
   
   <div>
-    <img display="flex" align="right" alt="Vivi-gif" height="380em" src="https://i.imgur.com/uWAguQ5.gif">
+    <img display="flex" align="right" alt="Vivi-gif" height="380em" src="https://4.bp.blogspot.com/--dWVcUVZuCs/XQ_8lE-nj_I/AAAAAAAzRbQ/auMgEcpbGcQCXSQqrY4VAVOHCZJsvWZ6wCLcBGAs/s1600/AW3919928_00.gif">
   </div>    
    
   ## Uso
