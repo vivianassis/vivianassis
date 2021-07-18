@@ -12,46 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Oi! Bem vindos ao meu gitUser <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> 
+# <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Oi! Bem vindos ao meu gitUser <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> 
   <br>
-  <div> <img align="right" height="335em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
-</div>
 
- <div>
+ <div style="display: flex">
   <a href="https://github.com/vivianassis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-   <div>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
+    </div>
   
   <div>
-    
-  </div>
-  
-   <div>
-   <img align="right" "height="60em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
-</div>
+    <img display="flex" align="right" alt="Vivi-gif" height="400em" src="https://i.imgur.com/uWAguQ5.gif">
+  </div>    
    
-   ## Atualmente estudando
+  ## Uso
     
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Vivi-Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Vivi-Js" height="50em" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg">
   <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">                                             <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Vivi-Git" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/emmet-logo-png-transparent.png">
-                                                                                                                                     
+  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+</div>          
+                                                                                    
+  
+  ## Atualmente estudando
+    
+  <div style="display: flex" width="50%">
+  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
+  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Vivi-.NET" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
 </div>
- 
-   
-  <div> <img align="right" height="115em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> 
-</div>
-   
- ## Canais de Comunicação
+  
+  
+                                                                                                                                    
+ ## Canais de Comunicação  
   <div> 
   <a href="https://www.linkedin.com/in/viviana-assis-573874212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vivianassis11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
