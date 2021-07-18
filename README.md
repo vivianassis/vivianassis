@@ -12,20 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Oi! Bem vindos ao meu gitUser <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> 
-  <br>
+#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Hi! Welcome to my gituser 🤗    
 
- <div style="display: flex">
+ <div style= display: "flex">
   <a href="https://github.com/vivianassis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
     </div>
+
+  
   
   <div>
     <img display="flex" margin="0" align="right" alt="Vivi-gif" height="350em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
   </div>    
    
-  ## Uso
+  ## I'm using
     
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 </div>          
                                                                                     
   
-  ## Atualmente estudando
+  ## Currently learning
     
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
   
   
                                                                                                                                     
- ## Canais de Comunicação  
+ ## Contact me in
   <div> 
   <a href="https://www.linkedin.com/in/viviana-assis-573874212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vivianassis11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
