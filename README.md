@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Oi! Bem vindos ao meu gitUser :hugs: 
+# Oi! Bem vindos ao meu gitUser <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> 
   <br>
   <div> <img align="right" height="335em" alt="Bem vindos" src="https://i.imgur.com/8R2KeZC.jpeg">
 </div>
@@ -26,8 +26,12 @@ Here are some ideas to get you started:
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+  <div>
+    
+  </div>
+  
    <div>
-   <img align="right" "height="55em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
+   <img align="right" "height="60em" alt="frase" src="https://i.imgur.com/IzhovPE.png">
 </div>
    
    ## Atualmente estudando
@@ -36,11 +40,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Js" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">                                             <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/emmet-logo-png-transparent.png">
+                                                                                                                                     
 </div>
-
  
    
   <div> <img align="right" height="115em" alt="gif gatinho kuat" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TtstsNPO--/c_imagga_scale,f_auto,fl_progressive,h_500,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/ew0j0z5tw6qjxx6xtdu1.gif"> 
