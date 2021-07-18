@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 #  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Hi! Welcome to my gituser 🤗    
 
- <div style= display: "flex">
+ <div>
   <a href="https://github.com/vivianassis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vivianassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianassis&layout=compact&langs_count=16&theme=dracula"/>
     </div>
 
   
