@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-HTML" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Vivi-Js" height="50em" src="https://iconape.com/wp-content/files/ez/353342/svg/javascript-seeklogo.com.svg">
   <img align="center" alt="Vivi-CSS" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Vivi-Git" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
-  <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/emmet-logo-png-transparent.png">
+  <img align="center" alt="Vivi-Vs_Code" height="50em" src="https://res.cloudinary.com/practicaldev/image/fetch/s--HlRNLfSF--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhgvnc0xmaujbgfy3y28.png">
+  <img align="center" alt="Vivi-Emmet" height="50em" src="https://cdn.freebiesupply.com/logos/large/2x/emmet-logo-png-transparent.png">
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
 </div>          
                                                                                     
@@ -44,8 +44,9 @@ Here are some ideas to get you started:
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Vivi-.NET" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
+  <img align="center" alt="Vivi-Sass" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Vivi-Bootstrap" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
+  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
 </div>
   
   
