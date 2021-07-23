@@ -47,14 +47,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Sass" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vivi-Bootstrap" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
   <img align="center" alt="Vivi-Figma" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
+  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
 </div> 
   
- #### *Reading a lot about 👀
+ #### *And previous reading about 👀
  
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
  </div> <hr  />
  
  ## Contact me in
