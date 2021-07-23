@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>          
                                                                                     
   <div>
-    <img display="flex" margin="0" align="right" alt="Vivi-gif" height="380em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
+    <img display="flex" margin="0" padding= "0" align="right" alt="Vivi-gif" height="380em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
   </div>    
  
   ## Currently learning
@@ -47,15 +47,15 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Sass" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vivi-Bootstrap" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
   <img align="center" alt="Vivi-Figma" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
-</div>
+</div> 
   
- ## Reading about
+ #### *Reading a lot about 👀
  
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-</div>
+  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
+ </div> <hr  />
  
  ## Contact me in
   <div> 
