@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
   
   
-  <div>
-    <img display="flex" margin="0" align="right" alt="Vivi-gif" height="350em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
-  </div>    
+  
    
   ## I'm using
     
@@ -38,19 +36,27 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-Git" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
 </div>          
                                                                                     
-  
+  <div>
+    <img display="flex" margin="0" align="right" alt="Vivi-gif" height="380em" src="https://4.bp.blogspot.com/-T2bVs6xiUks/XHeLMCZlvOI/AAAAAAAUQDU/k-8YrZmX5j4S9VOaOULzqtExdduBcfPtQCLcBGAs/s1600/AW3567431_10.gif">
+  </div>    
+ 
   ## Currently learning
     
-  <div style="display: flex" width="50%">
-  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
-  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+  <div style="display: flex" width="50%"> 
+  <img align="center" alt="Vivi-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Vivi-Sass" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vivi-Bootstrap" height="50em" src="https://ng-bootstrap.github.io/img/ngb-logo.png">
+  <img align="center" alt="Vivi-Figma" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
   <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
 </div>
   
-  
-                                                                                                                                    
+ ## Reading about
+ 
+  <div style="display: flex" width="50%">
+  <img align="center" alt="Vivi-.NET" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
+  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+</div>
+ 
  ## Contact me in
   <div> 
   <a href="https://www.linkedin.com/in/viviana-assis-573874212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
