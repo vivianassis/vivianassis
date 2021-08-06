@@ -64,3 +64,6 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UC-U5xQGEP6vFC50ed9IJiFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
  
+##### 
+Notice: <b>I'm not currently posting because I'm studying design theories to improve my projects. <br>
+Coming soon back to posts in the repositories</b>
