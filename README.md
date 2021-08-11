@@ -47,12 +47,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-My-SQL" height="50em" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
   <img align="center" alt="Vivi-c-sharp" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
    <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
+   <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div> 
   
  ## 👀 I want reading about.
  
   <div style="display: flex" width="50%">
-  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Vivi-Angular" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="Vivi-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
  </div> <hr/>
