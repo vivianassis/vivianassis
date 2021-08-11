@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   ## 🤔 Currently learning 
     
   <div style="display: flex" width="50%"> 
-   <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
    <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div> 
   
@@ -53,6 +52,7 @@ Here are some ideas to get you started:
   <div style="display: flex" width="50%">
   <img align="center" alt="Vivi-Angular" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="Vivi-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">    
+  <img align="center" alt="Vivi-Scrum" height="50em" src="https://masterfield.devsome.hu/images/s.png">
  </div> <hr/>
  
  ### Contact me:
