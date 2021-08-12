@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     
   <div style="display: flex" width="50%"> 
    <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="Vivi-UI-UX" height="50em" src="https://icon-library.com/images/ux-design-icon/ux-design-icon-8.jpg">   
 </div> 
   
  ## 👀 I want reading about.
