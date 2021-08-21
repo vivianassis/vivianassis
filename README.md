@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   ## 🤔 Currently learning 
     
   <div style="display: flex" width="50%"> 
+   <img align="center" alt="Vivi-Java" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
    <img align="center" alt="Vivi-UI-UX" height="50em" src="https://icon-library.com/images/ux-design-icon/ux-design-icon-8.jpg">   
 </div> 
   
