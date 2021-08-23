@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  <img height="30em" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png"/> Hi! Welcome to my gituser 🤗    
+#   Hi! Welcome to my gituser 🤗    
 
  <div>
   <a href="https://github.com/vivianassis">
