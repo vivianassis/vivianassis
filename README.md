@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#   Hi! Welcome to my gituser 🤗    
+#   Hi! Welcome to my gituser!    
 
  <div>
   <a href="https://github.com/vivianassis">
