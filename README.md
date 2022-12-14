@@ -49,15 +49,6 @@ Here are some ideas to get you started:
    <img align="center" alt="Vivi-UI-UX" height="50em" src="https://icon-library.com/images/ux-design-icon/ux-design-icon-8.jpg">   
 </div> 
   
- ## 👀 I want reading about.
- 
-  <div style="display: flex" width="50%">
-  <img align="center" alt="Vivi-Python" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Vivi-Angular" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
-  <img align="center" alt="Vivi-Ruby" height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"
-a  <img align="center" alt="Vivi-Typescript" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  
- </div> <hr/>
  
  ### Contact me:
   <div> 
